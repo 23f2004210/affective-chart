@@ -1,0 +1,7 @@
+{
+  "prompt": "Aerial photograph style illustration of a vast jungle canopy viewed from directly above, with most of the frame filled with dense deep green forest and a large section overtaken by dry cracked brown land spreading inward like a slow tide. The boundary between green and brown is jagged and organic. A thin river flows through the remaining forest. The forest appears like a shrinking island. Mood: quiet irreversible loss. Color palette: deep green, dry brown, muted earthy tones. Photorealistic. No text, no labels, no legends, no numbers, no chart elements.",
+  "model": "DALL-E 3 via ChatGPT",
+  "dataset_name": "Amazon Deforestation",
+  "dataset_url": "https://terrabrasilis.dpi.inpe.br/downloads/",
+  "insight": "Brazil lost approximately 400,000 km² of Amazon rainforest between 2000 and 2020."
+}
